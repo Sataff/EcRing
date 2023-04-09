@@ -6,7 +6,7 @@ This library provides an implementation of elliptic curve ring signatures.
 
 To install the library, use the `go get` command:
 
-go get https://github.com/Sataff/ec_ring_signature
+go get https://github.com/Sataff/EcRing
 
 
 ## Usage
@@ -21,7 +21,7 @@ package main
 import (
 	"fmt"
 
-	"https://github.com/Sataff/ec_ring_signature"
+	"https://github.com/Sataff/EcRing"
 )
 
 func main() {
